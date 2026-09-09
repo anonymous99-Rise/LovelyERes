@@ -46,3 +46,6 @@ secrets/
 **/*password*
 **/*secret*
 **/*token*
+# Keep CSS design tokens tracked (not credential files)
+!src/css/tokens/
+!src/css/tokens/**

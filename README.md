@@ -107,7 +107,7 @@ LovelyRes/
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/Tokeii0/LovelyERes.git
+   git clone https://github.com/anonymous99-Rise/LovelyERes.git
    cd lovelyres
    ```
 
